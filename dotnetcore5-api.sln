@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore5-api.mobile", "dotnetcore5-api.mobile\dotnetcore5-api.mobile.csproj", "{DB1D1407-288D-4C2D-BF27-F8C0D64B5D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1D1407-288D-4C2D-BF27-F8C0D64B5D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1D1407-288D-4C2D-BF27-F8C0D64B5D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1D1407-288D-4C2D-BF27-F8C0D64B5D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1D1407-288D-4C2D-BF27-F8C0D64B5D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA2E7C5-E1FB-4634-B4FD-3BFCBD488C0E}
+	EndGlobalSection
+EndGlobal
